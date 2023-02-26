@@ -50,4 +50,6 @@ input{
     font-size: 70px;
     background-color: #333;
     border: none;
+    color: #fff;
+    text-align: right;
 }   
